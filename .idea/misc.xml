@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/drawable-v24/art_clear.xml" value="0.1" />
+        <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/layout/activity_detail.xml" value="0.1" />
         <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/layout/activity_forecast.xml" value="0.17119565217391305" />
         <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/layout/activity_settings.xml" value="0.1" />
         <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/menu/detail.xml" value="0.1" />
         <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/menu/forecast.xml" value="0.1" />
+        <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/xml/pref_general.xml" value="0.17" />
+        <entry key="..\:/Users/insho/AndroidStudioProjects/SunshineWeather/app/src/main/res/xml/xml.xml" value="0.1" />
       </map>
     </option>
   </component>
